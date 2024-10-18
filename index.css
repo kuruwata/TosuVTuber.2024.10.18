@@ -150,6 +150,9 @@ section {
   overflow: hidden;
 }
 
+.TopBanner img{
+  width: 100%;
+}
 
 /* 画像とテキストを横に並べるためのスタイル
 .container {
